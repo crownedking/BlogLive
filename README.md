@@ -1,7 +1,6 @@
 ### Welcome to BlogLive
 
-You can use the [editor on GitHub](https://github.com/crownedking/BlogLive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+Welcome to the official BlogLive website. If everyone else is talking about it, we are too! If there is a topic that is not yet talked about, contact us and we'll get back to you as soon as we can.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
